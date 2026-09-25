@@ -47,7 +47,7 @@ Rajiv Gandhi Proudyogiki Vishwavidyalaya (UIT-RGPV), Bhopal.
 The portfolio includes certificates related to SQL, Data Analytics, Python, AI, and Cybersecurity.
 
 ##  Portfolio
-Visit my live portfolio website:
+Visit my live portfolio website: https://suhanisallam-cyber.github.io/Suhani_portfolio/
 
 
 ##  Contact
