@@ -332,6 +332,25 @@ header {
     font-weight: bold;
 }
 
+/* Experience */
+.Experience pre {
+    font-family: Arial, sans-serif;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    color: #667085;
+    line-height: 1.6;
+    font-size: 15px;
+}
+    /* Experience */
+
+.Experience .certificate-container {
+    grid-template-columns: 1fr;
+}
+
+.Experience .certificate-card {
+    width: 100%;
+}
+
 
 /* Contact */
 
